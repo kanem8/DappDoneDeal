@@ -1,8 +1,5 @@
 import { ethers } from 'ethers'
 
-// Components
-// import Rating from './Rating'
-
 const Section = ({ title, products, togglePop }) => {
     return (
         <div className='cards__section'>

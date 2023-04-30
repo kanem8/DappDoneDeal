@@ -91,7 +91,6 @@ describe("DappDoneDeal", () => {
         it("Sets the sold variable for both the product and purchase structs to true", async () => {
             const purchase = await dappDoneDeal.purchases(buyer.address, 1)
             expect(purchase.product.sold).to.equal(true)
-            // console.log("purchase timestamp: %s" )
 
             const product = await dappDoneDeal.products(1)
             expect(product.sold).to.equal(true)
