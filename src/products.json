@@ -1,0 +1,76 @@
+{
+    "products": [
+      {
+        "name": "Camera",
+        "category": "Electronics & Gadgets",
+        "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/camera.jpg",
+        "price": "1",
+        "description": "A Canon GT6 camera bought in 2022 which I no longer use.",
+        "country": "England"
+      },
+      {
+        "name": "Drone",
+        "category": "Electronics & Gadgets",
+        "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/drone.jpg",
+        "price": "2",
+        "description": "A DJI Mini 3 Pro",
+        "country": "Northern Ireland"
+      },
+      {
+        "name": "Headset",
+        "category": "Electronics & Gadgets",
+        "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/headset.jpg",
+        "price": "0.25",
+        "description": "A sony headset. One year old.",
+        "country": "Scotland"
+      },
+      {
+        "name": "Shoes",
+        "category": "Clothing & Jewelry",
+        "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/shoes.jpg",
+        "price": "0.25",
+        "description": "A brand new pair of Puma shoes. Size 8 mens. Never worn.",
+        "country": "Ireland"
+      },
+      {
+        "name": "Sunglasses",
+        "category": "Clothing & Jewelry",
+        "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/sunglasses.jpg",
+        "price": "0.10",
+        "description": "Ray ban sunglasses, 1 year old. Hardly ever worn.",
+        "country": "Ireland"
+      },
+      {
+        "name": "Watch",
+        "category": "Clothing & Jewelry",
+        "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/watch.jpg",
+        "price": "1.25",
+        "description": "A vintage seiko watch.",
+        "country": "England"
+      },
+      {
+        "name": "Rubix Cube",
+        "category": "Toys & Gaming",
+        "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/cube.jpg",
+        "price": "0.05",
+        "description": "Try solving this rubix cube!",
+        "country": "England"
+      },
+      {
+        "name": "Train Set",
+        "category": "Toys & Gaming",
+        "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/train.jpg",
+        "price": "0.20",
+        "description": "An antique trainset from 1980.",
+        "country": "Wales"
+      },
+      {
+        "name": "Robot Set",
+        "category": "Toys & Gaming",
+        "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/robots.jpg",
+        "price": "0.15",
+        "description": "Some funs toys which my kids have grown out of!",
+        "country": "England"
+      }
+    ]
+  }
