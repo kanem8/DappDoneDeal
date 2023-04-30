@@ -20,6 +20,12 @@
 ### 3. Run tests
 `$ npx hardhat test`
 
+(For anyone wanting to change the DappDoneDeal.sol smart contract:
+This will command will compile contracts/DappDoneDeal.sol contract and run tests in test/DappDoneDealTest.js. 
+The compiled contract json will be stored in a newly created artifacts directory - the ABI will be stored in this.
+I have pushed a DappDoneDealABI.json for the react application to use. Any changes to the smart contract 
+means you will need to replace this ABI with the newly compiled one - taken from the compiled DappDoneDeal.json file.)
+
 ### 4. Start Hardhat node
 `$ npx hardhat node`
 
